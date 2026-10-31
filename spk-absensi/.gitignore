@@ -1,0 +1,25 @@
+# Environment
+**/.env
+**/.env.*
+!**/.env.example
+
+# Laravel
+**/vendor/
+**/storage/logs/*
+**/bootstrap/cache/*.php
+
+# Node.js
+**/node_modules/
+**/dist/
+**/build/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
